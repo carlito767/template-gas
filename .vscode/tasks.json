@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "🔑 Login",
+      "command": "clasp",
+      "args": [
+        "login",
+      ]
+    },
+    {
+      "label": "🔺 Push",
+      "command": "clasp",
+      "args": [
+        "push",
+      ]
+    },
+    {
+      "label": "🔻 Pull",
+      "command": "clasp",
+      "args": [
+        "pull",
+      ]
+    }
+  ]
+}
