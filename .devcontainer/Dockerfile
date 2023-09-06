@@ -25,7 +25,9 @@ RUN npm i -g npm@latest && \
   pnpm install -r --offline &&\
   # Install global dependencies
   # clasp 2.4.0 instead of latest, see https://github.com/google/clasp/issues/869
-  pnpm add -g @google/clasp@2.4.0
+  pnpm add -g @google/clasp@2.4.0 &&\
+  # jest
+  pnpm add -g jest@v29.6.4
 
 # Copy project files
 COPY . ./

@@ -8,6 +8,7 @@ Template for Google Apps Script project.
 - [Node.js](https://nodejs.org/)
 - [pnpm](https://pnpm.io/)
 - [clasp](https://github.com/google/clasp)
+- [Jest](https://jestjs.io/)
 
 ## Develop with containers
 

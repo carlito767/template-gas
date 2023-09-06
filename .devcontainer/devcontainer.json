@@ -10,7 +10,8 @@
     "vscode": {
       "extensions": [
         "actboy168.tasks",
-        "mhutchie.git-graph"
+        "mhutchie.git-graph",
+        "Orta.vscode-jest"
       ]
     }
   }

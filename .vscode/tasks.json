@@ -2,6 +2,14 @@
   "version": "2.0.0",
   "tasks": [
     {
+      "label": "✅ Test",
+      "command": "pnpm",
+      "args": [
+        "run",
+        "test",
+      ]
+    },
+    {
       "label": "🔑 Login",
       "command": "clasp",
       "args": [
